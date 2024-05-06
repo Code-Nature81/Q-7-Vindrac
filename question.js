@@ -3,11 +3,11 @@ let questions = [
     {
     numb: 7,
     question: "A propos de temps, en personne avisé et après un petit « trabalh del cap » vous connaîtrez  l’heure approximative, grâce à ?",
-    answer: "2) un cadran solaire",
+    answer: "2) Un cadran solaire",
     options: [
-      "1) une horloge sur le clocher",
-      "2) un cadran solaire",
-      "3) un habitant du village ",
+      "1) Une horloge sur le clocher",
+      "2) Un cadran solaire",
+      "3) Un habitant du village ",
      
     ]
   },
